@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**griffinvelichko/griffinvelichko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Griffin Velichko**, the creator of **Cmpete**, a social network for amateur athletes. 🏀⚽🎾
 
-Here are some ideas to get you started:
+## About Me
+- 🔥 Wildfire fighter and Strike Team Leader.
+- 🏂 Treasurer for UBC Ski and Board Club.
+- 🚀 Building innovative apps in Swift and Firebase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Cmpete](https://cmpete.com) - Create, connect, and compete in local sports events.
+- **ShoutScore** - Voice recognition scoring app.
+
+## Let's Connect
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+- 📧 Email: youremail@example.com
+
