@@ -12,7 +12,7 @@ I'm **Griffin Velichko**, the creator of **Cmpete**, a social network for amateu
 - **ShoutScore** - Voice recognition scoring app.
 
 ## Let's Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://linkedin.com/in/gvelichko)
+- [Personal Website](https://gv1000.com)
 - 📧 Email: youremail@example.com
 
