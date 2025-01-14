@@ -1,13 +1,13 @@
 # Hi there! 👋
 
 ## About Me
+- 🚀 Building innovative apps in Swift.
 - 🔥 Wildfire fighter and Strike Team Leader.
 - 🏂 Treasurer for UBC Ski and Board Club.
-- 🚀 Building innovative apps in Swift and Firebase.
 
 ## Projects
 - [Cmpete](https://cmpete.com) - Create, connect, and compete in local sports events.
-- **ShoutScore** - Voice recognition scoring app.
+- [Shout Score](https://gv1000.com/shoutscore) - Voice recognition scoring app.
 
 ## Let's Connect
 - [LinkedIn](https://linkedin.com/in/gvelichko)
