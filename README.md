@@ -12,5 +12,5 @@
 ## Let's Connect
 - [LinkedIn](https://linkedin.com/in/gvelichko)
 - [Personal Website](https://gv1000.com)
-- 📧 Email: youremail@example.com
+- 📧 Email: [griffin.velichko@gmail.com](mailto:griffin.velichko@gmail.com)
 
