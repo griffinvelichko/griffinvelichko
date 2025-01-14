@@ -2,6 +2,7 @@
 
 ## About Me
 - 🚀 Building innovative apps in Swift.
+- 🚀 Utilizing TypeScript to build webapps.
 
 ## Projects
 - [Cmpete](https://cmpete.com) - Create, connect, and compete in local sports events.
