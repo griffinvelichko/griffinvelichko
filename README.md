@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-I'm **Griffin Velichko**, the creator of **Cmpete**, a social network for amateur athletes. 🏀⚽🎾
-
 ## About Me
 - 🔥 Wildfire fighter and Strike Team Leader.
 - 🏂 Treasurer for UBC Ski and Board Club.
