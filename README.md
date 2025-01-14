@@ -2,8 +2,6 @@
 
 ## About Me
 - 🚀 Building innovative apps in Swift.
-- 🔥 Wildfire fighter and Strike Team Leader.
-- 🏂 Treasurer for UBC Ski and Board Club.
 
 ## Projects
 - [Cmpete](https://cmpete.com) - Create, connect, and compete in local sports events.
@@ -14,3 +12,6 @@
 - [Personal Website](https://gv1000.com)
 - 📧 Email: [griffin.velichko@gmail.com](mailto:griffin.velichko@gmail.com)
 
+## Other cool stuff I do/have done
+- 🔥 Wildfire fighter and Strike Team Leader.
+- 🏂 Treasurer for UBC Ski and Board Club.
