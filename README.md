@@ -14,6 +14,6 @@
 - [Personal Website](https://gv1000.com)
 - 📧 Email: [griffin.velichko@gmail.com](mailto:griffin.velichko@gmail.com)
 
-## Other cool stuff I do/have done
+## Other cool stuff I've done
 - 🔥 Wildfire fighter and Strike Team Leader.
 - 🏂 Treasurer for UBC Ski and Board Club.
